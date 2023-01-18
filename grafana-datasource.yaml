@@ -26,6 +26,3 @@ datasources:
   #     port: 9000
   #     server: clickhouse-server
   #     username: default
-  #     tlsSkipVerify: true
-  #     protocol: native
-  #   editable: true
